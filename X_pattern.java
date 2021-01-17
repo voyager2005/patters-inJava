@@ -63,7 +63,7 @@ public class x
             {
                 System.out.print(space);
 
-                if(spaces == 1 && i != 5)
+                if(spaces == 1 && i != upperTriangle)
                 {
                     // printing the last star
                     System.out.print(pattern); 
