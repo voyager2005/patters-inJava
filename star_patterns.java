@@ -224,5 +224,51 @@ public class star_patterns
             // going to the next line
             System.out.println();
         }
+        
+        // pattern 10
+        //     * 
+        //    * * 
+        //   * * * 
+        //  * * * *
+        // * * * * *
+        //  * * * *
+        //   * * *
+        //    * *
+        //     *
+        System.out.println("pattern 10:");
+        for( int i = 1 ; i <= 5; i++)
+        {
+            // printing the spaces 
+            for( int spaces = 5 - i ; spaces >= 1 ; spaces--)
+            {
+                System.out.print(" "); 
+            }
+
+            //printing the star
+            for( int j = 1 ; j <= i ; j++)
+            {
+                System.out.print("* "); 
+            }
+
+            // going to the next line
+            System.out.println();
+        }
+        for( int i = 1 ; i <= 5; i++)
+        {
+            // printing the spaces 
+            for( int spaces = i ; spaces >= 1 ; spaces--)
+            {
+                System.out.print(" "); 
+            }
+
+            //printing the star
+            for( int j = 1 ; j <= 5-i ; j++)
+            {
+                System.out.print("* "); 
+            }
+
+            // going to the next line
+            System.out.println();
+        }
     }
 }   
