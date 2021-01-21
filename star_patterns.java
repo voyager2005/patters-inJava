@@ -199,5 +199,30 @@ public class star_patterns
             // going to the next line
             System.out.println();
         }
+        
+        // pattern 9
+        // * * * * * 
+        //  * * * *
+        //   * * *
+        //    * *
+        //     *
+        System.out.println("\nPattern 9:");
+        for( int i = 1 ; i <= 5; i++)
+        {
+            // printing the spaces 
+            for( int spaces = i-1 ; spaces >= 1 ; spaces--)
+            {
+                System.out.print(" "); 
+            }
+
+            //printing the star
+            for( int j = i ; j <= 5 ; j++)
+            {
+                System.out.print("* "); 
+            }
+
+            // going to the next line
+            System.out.println();
+        }
     }
 }   
