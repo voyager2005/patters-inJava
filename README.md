@@ -6,6 +6,8 @@ This Reopsitory contais all the java pattern programs and the different types of
 • Fell free to contact me on my [g-mail] about any new pattern programs that I must try out. Also please do ⭐ this repository if you found it helpful. 
 <br />• no updates on this repository as of now.
 
+[g-mail]: mailto:voyager2005.github@gmail.com
+
 ## License and copyright: 
 This repository is Licensed under [MIT License](LICENSE)
 
