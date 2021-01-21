@@ -2,7 +2,7 @@
 
 This Reopsitory contais all the java pattern programs and the different types of triangles that are asked to print
 
-## Announcements: 
+## Announcements 🔊: 
 • Fell free to contact me on my [g-mail] about any new pattern programs that I must try out. Also please do ⭐ this repository if you found it helpful. 
 <br />• no updates on this repository as of now.
 
