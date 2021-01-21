@@ -2,7 +2,14 @@
 
 This Reopsitory contais all the java pattern programs and the different types of triangles that are asked to print
 
-### Patterns that you can find in [this REPOSITORY]
+## Announcements: 
+• Fell free to contact me on my [g-mail] about any new pattern programs that I must try out. Also please do ⭐ this repository if you found it helpful. 
+<br />• no updates on this repository as of now.
+
+## License and copyright: 
+This repository is Licensed under [MIT License](LICENSE)
+
+## Patterns that you can find in [this REPOSITORY]
 ![image4 1](https://user-images.githubusercontent.com/76808676/104838081-af2edc80-58de-11eb-8ff2-2b01126e4376.png)
 ![image4 2](https://user-images.githubusercontent.com/76808676/104838083-b0600980-58de-11eb-968a-7289cc9de102.png) 
 ![image4 2 1](https://user-images.githubusercontent.com/76808676/105273327-0a9fe980-5bc1-11eb-98f4-e005ea5c5f67.png)
