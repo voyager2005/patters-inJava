@@ -22,7 +22,7 @@ This repository is Licensed under [MIT License](LICENSE)
 ![image4 3](https://user-images.githubusercontent.com/76808676/104838084-b0600980-58de-11eb-8930-cdd8e0dc95eb.png)
 <br />
 <br />**[star_pattern_n]**
-This file is same as the [star_patterns] file but you can enter the number of rows for the pattern 
+<br />This file is same as the [star_patterns] file but you can enter the number of rows for the pattern 
 
 [this REPOSITORY]: https://github.com/voyager2005/java-patterns
 [star patterns]:https://github.com/voyager2005/java-patterns/blob/main/star_patterns.java
