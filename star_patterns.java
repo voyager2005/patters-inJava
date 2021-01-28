@@ -7,7 +7,7 @@ public class star_patterns
         //  * * * * 
         //  * * * * 
         //  * * * *
-        System.out.println(); 
+        System.out.println("\nPattern 1: "); 
         for(int i = 1 ; i <= 4; i++)
         {
             for(int j = 1 ; j <= 4; j++)
@@ -23,7 +23,7 @@ public class star_patterns
         // * * 
         // * * * 
         // * * * * 
-        System.out.println(); 
+        System.out.println("\nPattern 2: "); 
         for(int i = 1 ; i <= 4 ; i++)
         {
             for( int j = 1 ; j<= i ; j++)
@@ -39,7 +39,7 @@ public class star_patterns
         // * * * 
         // * * 
         // * 
-        System.out.println(); 
+        System.out.println("\nPattern 3: "); 
         for( int i = 1 ; i <= 4 ; i++)
         {
             for( int j = 4 ; j >= i ; j--)
@@ -60,7 +60,7 @@ public class star_patterns
         // * * * 
         // * * 
         // * 
-        System.out.println(); 
+        System.out.println("\nPattern 4: "); 
         for(int i = 1 ; i <= 5 ; i++)
         {
             for( int j = 1 ; j<= i ; j++)
@@ -86,7 +86,7 @@ public class star_patterns
         //   ***
         //  ****
         // *****
-        System.out.println();
+        System.out.println("\nPattern 5: ");
         for( int i = 1 ; i <= 5; i++)
         {
             // printing the spaces 
@@ -111,7 +111,7 @@ public class star_patterns
         //   ***
         //    **
         //     * 
-        System.out.println();
+        System.out.println("\nPattern 6: ");
         for( int i = 1 ; i <= 5 ; i++)
         {
             // printing space
@@ -140,7 +140,7 @@ public class star_patterns
         //   ***
         //    **
         //     * 
-        System.out.println();
+        System.out.println("\nPattern 7: ");
         for( int i = 1 ; i <= 5; i++)
         {
             // printing the spaces 
@@ -181,7 +181,7 @@ public class star_patterns
         //   * * 
         //  * * * 
         // * * * * 
-        System.out.println();
+        System.out.println("\nPattern 8: ");
         for( int i = 1 ; i <= 5; i++)
         {
             // printing the spaces 
@@ -206,7 +206,7 @@ public class star_patterns
         //   * * *
         //    * *
         //     *
-        System.out.println("\nPattern 9:");
+        System.out.println("\nPattern 9: ");
         for( int i = 1 ; i <= 5; i++)
         {
             // printing the spaces 
@@ -235,7 +235,7 @@ public class star_patterns
         //   * * *
         //    * *
         //     *
-        System.out.println("pattern 10:");
+        System.out.println("\nPattern 10:");
         for( int i = 1 ; i <= 5; i++)
         {
             // printing the spaces 
