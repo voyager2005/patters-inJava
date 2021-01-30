@@ -4,6 +4,7 @@ This Reopsitory contais all the java pattern programs and the different types of
 
 ## Announcements 🔊: 
 • Fell free to contact me on my [g-mail] about any new pattern programs that I must try out. Also please do ⭐ this repository if you found it helpful. 
+• I am also working on alphabetical patterns... Will add that to this reposiotry before 7/02/2021
 
 [g-mail]: mailto:voyager2005.github@gmail.com
 
