@@ -21,11 +21,25 @@ This repository is Licensed under [MIT License](LICENSE)
 <br />**[X pattern]**
 <br/>
 ![image4 3](https://user-images.githubusercontent.com/76808676/104838084-b0600980-58de-11eb-8930-cdd8e0dc95eb.png)
+<br \>
+<br />**[Alphabetical_X_pattern]:**
+```
+A       A
+ A     A
+  A   A
+   A A
+    A
+   A A
+  A   A
+ A     A
+A       A
+```
 <br />
-<br />**[star_pattern_n]**
+<br />**[star_pattern_n]:**
 <br />This file is same as the [star_patterns] file but you can enter the number of rows for the pattern 
 
 [this REPOSITORY]: https://github.com/voyager2005/java-patterns
 [star patterns]:https://github.com/voyager2005/java-patterns/blob/main/star_patterns.java
 [X pattern]:https://github.com/voyager2005/java-patterns/blob/main/X_pattern_simplified.java
-[star_pattern_n]:https://github.com/voyager2005/java-patterns/blob/main/star_pattern_n
+[star_pattern_n]: https://github.com/voyager2005/java-patterns/blob/main/star_pattern_n.java
+[Alphabetical_X_pattern]: https://github.com/voyager2005/java-patterns/blob/main/Alphabetical_X_pattern.java
